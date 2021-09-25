@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pdrm83/pdrm83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi! I learn in [medium](https://pedram-ataee.medium.com/). Build things at [DwD](https://github.com/Dance-with-Data-DwD).
+
+💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/).
