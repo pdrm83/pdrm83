@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/).
 
-⚡ Checkout my AI book: "[Artificial Intelligence: Unorthodox Lessons](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_bibl_vppi_i0)".
+⚡ Check out my books on [Amazon](https://www.amazon.com/dp/B08P5LJFB9?binding=kindle_edition&ref=dbs_dp_rwt_sb_tukn)!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/).
