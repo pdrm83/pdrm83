@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/)!
 
-🔭 If you use any of my projects or like what I am doing, so please consider [supporting](https://github.com/sponsors/pdrm83) me. 
+🔭 If you like what I am doing, please consider [supporting](https://github.com/sponsors/pdrm83) me. 
 
