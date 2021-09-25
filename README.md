@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/).
 
-⚡ Checkout my AI book: "[Artificial Intelligence: Unorthodox Lessons](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_bibl_vppi_i0)". I shared my foremost lessons in the data science world during past 10 years.
+⚡ Checkout my AI book: "[Artificial Intelligence: Unorthodox Lessons](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_bibl_vppi_i0)" where I shared my foremost lessons in the data science world.
