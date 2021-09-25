@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! I learn in [Medium](https://pedram-ataee.medium.com/). Build things at [DwD](https://github.com/Dance-with-Data-DwD).  
+👋 Hi! 
+
+👨 I learn in [Medium](https://pedram-ataee.medium.com/). Build things at [DwD](https://github.com/Dance-with-Data-DwD).  
 
 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/).
 
