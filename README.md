@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ⚡ Check out my books on [Amazon](https://www.amazon.com/dp/B08P5LJFB9?binding=kindle_edition&ref=dbs_dp_rwt_sb_tukn)!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/)!
