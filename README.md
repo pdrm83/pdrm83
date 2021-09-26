@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 | 👋 Hi!  | 👨 I learn on [Medium](https://pedram-ataee.medium.com/). Build things at [DwD](https://github.com/Dance-with-Data-DwD).|
 | :---  | :---  |
-| 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ⚡ Check out my books on [Amazon](https://www.amazon.com/dp/B08P5LJFB9?binding=kindle_edition&ref=dbs_dp_rwt_sb_tukn)! |
+| 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ⚡ Check out my books on [Amazon](https://www.amazon.com/dp/B08P5LJFB9?binding=kindle_edition&ref=dbs_dp_rwt_sb_tukn)! |
 | 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/)! | 🔭 If you like what I am doing, please consider [supporting](https://github.com/sponsors/pdrm83) me.|
 
