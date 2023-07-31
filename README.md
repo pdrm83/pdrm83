@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 | 👋 Hi!  | 👨 I write on [Medium](https://pedram-ataee.medium.com/).|
 | :---  | :---  |
-| 💛 I share things on [Twitter](https://twitter.com/pedram_ataee) and [Instagram](https://www.instagram.com/pedram.ataee/). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 💬 I am the creator of [Owl API](https://rapidapi.com/pedram.ataee/api/word-similarity/). |
+| 💛 I share things on [Twitter](https://twitter.com/pedram_ataee). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 💬 I am the creator of [Owl API](https://rapidapi.com/pedram.ataee/api/word-similarity/). |
 | 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrama/)! | ⚡ Check out my books on [Amazon](https://www.amazon.com/Pedram-Ataee/e/B08D6J3WNW)! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
